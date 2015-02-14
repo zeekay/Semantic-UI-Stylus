@@ -22,16 +22,7 @@ Installing via NPM will automatically run scripts which will let you customize h
 
 For more detail into how work with Semantic when building a site please [read our customization guide](http://learnsemantic.com/developing/customizing.html) on [LearnSemantic.com](http://learnsemantic.com/)
 
-### Browser Support
-
-* Last 2 Versions FF, Chrome, IE 10+
-* Safari 6
-* IE 9+ (Browser prefix only)
-* Android 4
-* Blackberry 10
-
 ## Community
-
 
 ### International
 
@@ -56,6 +47,15 @@ For more detail into how work with Semantic when building a site please [read ou
 ### Pull Requests
 
 When adding pull requests be sure to merge into [next](https://github.com/Semantic-Org/Semantic-UI/tree/next) branch. If you need to demonstrate a fix in ``next`` release, you can use [this jsfiddle](http://jsfiddle.net/rduvhn8u/1/)
+
+### Browser Support
+
+* Last 2 Versions FF, Chrome, IE 10+
+* Safari 6
+* IE 9+ (Browser prefix only)
+* Android 4
+* Blackberry 10
+
 
 ### Reaching Out
 
