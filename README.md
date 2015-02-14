@@ -36,7 +36,7 @@ For more detail into how work with Semantic when building a site please [read ou
 ### International
 
 * **Chinese** - A Chinese mirror site is available at [http://www.semantic-ui.cn](http:/www.semantic-ui.cn)
-* **RTL** - Right-to-left are supported out of the box using gulp build tools.
+* **RTL** - Right-to-left are supported out of the box. Simply select `rtl` during install.
 * **Translation** - To help translate see the [Wiki Guide](https://github.com/Semantic-Org/Semantic-UI/wiki/Translating-Semantic-UI-Docs) for translations
 
 ### Support
