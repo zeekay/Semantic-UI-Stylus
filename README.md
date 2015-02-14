@@ -9,6 +9,7 @@ Key Features
 * 3000 + CSS variables
 * 3 Levels of variable inheritance (similar to SublimeText)
 * Built with EM values for responsive design
+* Human readable markup using familiar language features like nouns and modifiers
 
 ## Getting Started
 
