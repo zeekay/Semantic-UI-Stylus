@@ -41,7 +41,7 @@ For more detail into how work with Semantic when building a site please [read ou
 
 ### Support
 
-* *Chat** - [Request an Invite](https://docs.google.com/forms/d/1hI1z136sXLkTQKtsv8SIvjjAvzpH77YzMQKrU-P8GAc/viewform?usp=send_form) to join [our Slack chatroom](http://semanticui.slack.com) for support and project discussions
+* **Chat** - [Request an Invite](https://docs.google.com/forms/d/1hI1z136sXLkTQKtsv8SIvjjAvzpH77YzMQKrU-P8GAc/viewform?usp=send_form) to join [our Slack chatroom](http://semanticui.slack.com) for support and project discussions
 * **Bug Reports** - Make a test case by forking this [jsfiddle](http://jsfiddle.net/efp8z6Ln/), then submit a [bug on GitHub](https://github.com/Semantic-Org/Semantic-UI/issues)
 * **Code Help** - Submit a question on [StackOverflow](http://www.stackoverflow.com) or ask our [Google Group](https://groups.google.com/forum/#!forum/semantic-ui)
 * **Integrations** - Check out our [integration page](https://github.com/Semantic-Org/Semantic-UI/wiki/Integration)
